@@ -7,7 +7,7 @@ A react native chat app build with expo where users can create groups and discus
 ## Web app link : https://awesome-signal.web.app/
 
 #### Note : Scan the QR code in Expo Go app
-Note: Database expired
+## Note (Important): Database expired
 ## Screenshots :
 
 ### Login Screen:
